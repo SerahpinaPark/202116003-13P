@@ -198,5 +198,4 @@ func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Boo
     lblRecordTime.text = convertNSTimeInterval2String(audioRecorder.currentTime)
 }
 }
-}
 ```
